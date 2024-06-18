@@ -1,0 +1,11 @@
+{
+  "name": "full_mern_stack_ecommerce_project-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon \"cd frontend && npm start\" \"cd backend && npm run server\" \"cd admin && npm start\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
